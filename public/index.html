@@ -4,14 +4,35 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <link rel="icon" href="<%= BASE_URL %>logo.png">
+		<meta name="title" content="RumahGurutta">
+		<meta name="description" content="Lorem	Ipsum">
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="<%= BASE_URL %>">
+		<meta property="og:title" content="RUMAHGURUTTA">
+		<meta property="og:description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!">
+		<meta property="og:image" content="<%= BASE_URL %>logo.png"">
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="<%= BASE_URL %>">
+		<meta property="twitter:title" content="RUMAHGURUTTA">
+		<meta property="twitter:description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!">
+		<meta property="twitter:image" content="<%= BASE_URL %>logo.png"">
+		
+    <title>RUMAHGURUTTA</title>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <style>
+      body {
+        font-family: 'Quicksand', sans-serif!important;
+      }
+    </style>
   </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
+  <body class="bg-gray-300">
     <div id="app"></div>
     <!-- built files will be auto injected -->
+    <script src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key="SB-Mid-client--4bL3_Rq02Ado583"></script>
   </body>
 </html>
