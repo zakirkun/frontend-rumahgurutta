@@ -167,7 +167,7 @@
                         console.log(result);
                         
                         if(result.status_code == 409){
-                            toast.error('Pembayaran telah sukses!')
+                            toast.success('Pembayaran telah sukses!')
                             router.push({name: 'thanks'})  
                         } else {
                             toast.error('Sepertinya ada kesalahan.')
