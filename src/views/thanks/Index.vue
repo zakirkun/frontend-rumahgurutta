@@ -6,8 +6,7 @@
                     <blockquote>
                         <span class="text-lg font-semibold m-px">Termakasih Atas Bantuannya!</span>
                         <p class="text-sm italic text-right p-2">اِنَّ الْمُصَّدِّقِيْنَ وَالْمُصَّدِّقٰتِ وَاَقْرَضُوا اللّٰهَ قَرْضًا حَسَنًا يُّضٰعَفُ لَهُمْ وَلَهُمْ اَجْرٌ كَرِيْمٌ</p>
-                        <p class="text-sm italic">"Sesungguhnya orang-orang yang membenarkan (Allah dan Rasul-Nya) baik laki-laki maupun perempuan dan meminjamkan kepada Allah peinjaman yang baik, niscaya akan dilipat gandakan (pembayarannya) kepada mereka; dan bagi mereka pahala yang banyak. (QS. Al hadid: 18).
-                            Artikel ini telah tayang di www.inews.id dengan judul " Kumpulan Hadits Tentang Sedekah Lengkap Arab dan Arti serta Keutamaannya "</p>
+                        <p class="text-sm italic">"Sesungguhnya orang-orang yang membenarkan (Allah dan Rasul-Nya) baik laki-laki maupun perempuan dan meminjamkan kepada Allah peinjaman yang baik, niscaya akan dilipat gandakan (pembayarannya) kepada mereka; dan bagi mereka pahala yang banyak. (QS. Al hadid: 18)."</p>
                     </blockquote>
                 </div>
             </figure>
