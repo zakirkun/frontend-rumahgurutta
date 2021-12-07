@@ -165,8 +165,14 @@
                     },
                     onError: function (result) {
                         console.log(result);
-                        toast.error('Sepertinya ada kesalahan.')
-                        router.push({name: 'donation.index'})  
+                        
+                        if(result.status_code == 409){
+                            toast.error('Pembayaran telah sukses!')
+                            router.push({name: 'thanks'})  
+                        } else {
+                            toast.error('Sepertinya ada kesalahan.')
+                            router.push({name: 'donation.index'})  
+                        }
                     }
                 })
 
